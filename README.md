@@ -1,0 +1,1 @@
+This is a new Rails application. It will become one of the first. 
